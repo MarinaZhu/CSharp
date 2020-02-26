@@ -1,0 +1,14 @@
+C:\Users\Marina.DESKTOP-GODM8P5\Documents\Учеба\C#\App1_Zhukovska\BirthdayPicker\bin\Debug\BirthdayPicker.exe.config
+C:\Users\Marina.DESKTOP-GODM8P5\Documents\Учеба\C#\App1_Zhukovska\BirthdayPicker\bin\Debug\BirthdayPicker.exe
+C:\Users\Marina.DESKTOP-GODM8P5\Documents\Учеба\C#\App1_Zhukovska\BirthdayPicker\bin\Debug\BirthdayPicker.pdb
+C:\Users\Marina.DESKTOP-GODM8P5\Documents\Учеба\C#\App1_Zhukovska\BirthdayPicker\obj\Debug\BirthDate.csprojAssemblyReference.cache
+C:\Users\Marina.DESKTOP-GODM8P5\Documents\Учеба\C#\App1_Zhukovska\BirthdayPicker\obj\Debug\MainWindow.g.cs
+C:\Users\Marina.DESKTOP-GODM8P5\Documents\Учеба\C#\App1_Zhukovska\BirthdayPicker\obj\Debug\App.g.cs
+C:\Users\Marina.DESKTOP-GODM8P5\Documents\Учеба\C#\App1_Zhukovska\BirthdayPicker\obj\Debug\BirthdayPicker_MarkupCompile.cache
+C:\Users\Marina.DESKTOP-GODM8P5\Documents\Учеба\C#\App1_Zhukovska\BirthdayPicker\obj\Debug\BirthdayPicker_MarkupCompile.lref
+C:\Users\Marina.DESKTOP-GODM8P5\Documents\Учеба\C#\App1_Zhukovska\BirthdayPicker\obj\Debug\MainWindow.baml
+C:\Users\Marina.DESKTOP-GODM8P5\Documents\Учеба\C#\App1_Zhukovska\BirthdayPicker\obj\Debug\BirthdayPicker.g.resources
+C:\Users\Marina.DESKTOP-GODM8P5\Documents\Учеба\C#\App1_Zhukovska\BirthdayPicker\obj\Debug\BirthdayPicker.Properties.Resources.resources
+C:\Users\Marina.DESKTOP-GODM8P5\Documents\Учеба\C#\App1_Zhukovska\BirthdayPicker\obj\Debug\BirthDate.csproj.GenerateResource.cache
+C:\Users\Marina.DESKTOP-GODM8P5\Documents\Учеба\C#\App1_Zhukovska\BirthdayPicker\obj\Debug\BirthdayPicker.exe
+C:\Users\Marina.DESKTOP-GODM8P5\Documents\Учеба\C#\App1_Zhukovska\BirthdayPicker\obj\Debug\BirthdayPicker.pdb
